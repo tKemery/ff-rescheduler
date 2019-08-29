@@ -1,0 +1,13 @@
+header {
+    border: 1px solid black;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    margin: 40px;
+}
+
+div {
+    color: magenta;
+}
